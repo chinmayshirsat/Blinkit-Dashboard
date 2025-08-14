@@ -62,9 +62,9 @@ To deliver an interactive analytical tool that:
 
 •	Supports inventory planning and marketing decisions with data-backed insights.
 
-## ** Walkthrough of Key Visuals** 🖼️
+## Walkthrough of Key Visuals 🖼️
 
-•	** KPI Cards (Top Row)**
+•  **KPI Cards (Top Row)**
 
     •	Total Sales: $1.2M
    

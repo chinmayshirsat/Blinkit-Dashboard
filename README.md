@@ -1,16 +1,16 @@
 # Blinkit-Dashboard
 
-#📌 Project Title / Headline
+📌 **Project Title** 
 
 📦 Blinkit Sales Performance & Outlet Analysis Dashboard
 An interactive Power BI dashboard providing in-depth insights into Blinkit’s sales trends, customer satisfaction, and outlet performance across locations, sizes, and product categories.
 
-📝 Short Description / Purpose
+📝 **Objective**
 
 The Blinkit Sales Analysis Dashboard is a dynamic and data-driven Power BI solution designed to evaluate sales performance, product demand, and customer satisfaction across multiple outlets.
 It enables decision-makers to monitor key KPIs, identify top-performing products, and optimize inventory distribution while gaining a deeper understanding of outlet-level sales patterns.
 
-🛠 Tech Stack
+🛠 **Tech Stack**
 
 The dashboard was built using the following tools and technologies:
 
@@ -24,11 +24,11 @@ The dashboard was built using the following tools and technologies:
 
 📁 File Formats – .pbix for development, .png for dashboard preview.
 
-📂 Data Source
+📂 **Data Source**
 
 Source: Blinkit’s historical sales and outlet performance dataset.
 
-Structure:
+**Structure**:
 
 Sales Data – Transaction-level details including item type, fat content, sales amount, and ratings.
 
@@ -36,7 +36,7 @@ Outlet Information – Location type (Tier 1–3), size, establishment year, and
 
 Customer Ratings – Average customer feedback scores per item.
 
-✨ Features / Highlights
+✨ **Features / Highlights**
 📍 Business Problem
 
 Blinkit needed a comprehensive view of its sales performance across outlets, products, and regions.
@@ -50,7 +50,7 @@ What is the relationship between customer ratings and sales?
 
 How has outlet establishment year impacted revenue trends over time?
 
-🎯 Goal of the Dashboard
+🎯 **Goal of the Dashboard**
 
 To deliver an interactive analytical tool that:
 
@@ -62,7 +62,7 @@ Evaluates outlet effectiveness based on size, location, and type.
 
 Supports inventory planning and marketing decisions with data-backed insights.
 
-📊 Walkthrough of Key Visuals
+📊 **Walkthrough of Key Visuals**
 
 KPI Cards (Top Row)
 
@@ -88,7 +88,7 @@ Sales by Outlet Location (Horizontal Bar Chart) – Compares Tier 1, Tier 2, and
 
 Outlet Type Performance Table – Displays all KPIs (Total Sales, Average Sales, Number of Items, Average Rating, Item Visibility) per outlet type.
 
-💡 Business Impact & Insights
+💡 **Business Impact & Insights**
 
 Tier 3 locations generate the highest sales ($472.13K), indicating strong rural/semi-urban demand.
 
@@ -100,6 +100,6 @@ Supermarket Type 1 leads outlet performance, generating the highest total sales 
 
 This analysis helps Blinkit optimize outlet stocking strategies, improve targeted marketing, and enhance product category focus.
 
-📷 Screenshots / Demos
+📷 **Screenshots / Demos**
 
 📸 Attached Dashboard Preview:

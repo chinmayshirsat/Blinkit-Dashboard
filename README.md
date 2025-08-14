@@ -14,42 +14,31 @@ It enables decision-makers to monitor key KPIs, identify top-performing products
 
 The dashboard was built using the following tools and technologies:
 
-📊 Power BI Desktop – Main platform for interactive dashboard creation.
+•	📊 Power BI Desktop – Main platform for interactive dashboard creation.
+•	📂 Power Query – Data cleaning and transformation layer.
+•	🧠 DAX (Data Analysis Expressions)– For calculated KPIs and dynamic measures.
+•	📝 Data Modeling – Relationships established between fact and dimension tables for cross-filtering.
+•	📁 File Format– .pbix for development, .png for dashboard preview.
 
-📂 Power Query – Data cleaning and transformation layer.
+## **Data Source** 📑
+**Source**: Blinkit’s historical sales and outlet performance dataset.
 
-🧠 DAX (Data Analysis Expressions) – For calculated KPIs and dynamic measures.
+**Structure**:
 
-📝 Data Modeling – Relationships established between fact and dimension tables for cross-filtering.
+**Sales Data** – Transaction-level details including item type, fat content, sales amount, and ratings.
+**Outlet Information** – Location type (Tier 1–3), size, establishment year, and type (Grocery Store, Supermarket Type 1–3).
+**Customer Ratings** – Average customer feedback scores per item.
 
-📁 File Formats – .pbix for development, .png for dashboard preview.
-
-## Data Source 📑
-
-Source: Blinkit’s historical sales and outlet performance dataset.
-
-Structure:
-
-Sales Data – Transaction-level details including item type, fat content, sales amount, and ratings.
-
-Outlet Information – Location type (Tier 1–3), size, establishment year, and type (Grocery Store, Supermarket Type 1–3).
-
-Customer Ratings – Average customer feedback scores per item.
-
-Features / Highlights 🚀
-Business Problem ❓
+## ****Features / Highlights 🚀
+**Business Problem** ❓
 
 Blinkit needed a comprehensive view of its sales performance across outlets, products, and regions.
 Key questions included:
 
 Which product categories and fat content types drive the most sales?
-
 How do outlet size, type, and location influence sales performance?
-
 What is the relationship between customer ratings and sales?
-
 How has outlet establishment year impacted revenue trends over time?
-
 Goal of the Dashboard 🎯
 
 To deliver an interactive analytical tool that:

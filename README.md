@@ -15,9 +15,13 @@ It enables decision-makers to monitor key KPIs, identify top-performing products
 The dashboard was built using the following tools and technologies:
 
 •	📊 Power BI Desktop – Main platform for interactive dashboard creation. 
+
 •	📂 Power Query – Data cleaning and transformation layer.
+
 •	🧠 DAX (Data Analysis Expressions)– For calculated KPIs and dynamic measures.
+
 •	📝 Data Modeling – Relationships established between fact and dimension tables for cross-filtering.
+
 •	📁 File Format– .pbix for development, .png for dashboard preview.
 
 ## **Data Source** 📑

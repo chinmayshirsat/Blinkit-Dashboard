@@ -103,3 +103,4 @@ This analysis helps Blinkit optimize outlet stocking strategies, improve targete
 📷 **Screenshots / Demos**
 
 📸 Attached Dashboard Preview:
+https://github.com/chinmayshirsat/Blinkit-Dashboard/blob/main/Blinkit%20Dashboard.png

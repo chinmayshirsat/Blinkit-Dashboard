@@ -35,7 +35,7 @@ The dashboard was built using the following tools and technologies:
 
 •	**Customer Ratings** – Average customer feedback scores per item.
 
-## ****Features / Highlights 🚀
+## **Features / Highlights 🚀
 **Business Problem** ❓
 
 Blinkit needed a comprehensive view of its sales performance across outlets, products, and regions.
@@ -64,7 +64,7 @@ To deliver an interactive analytical tool that:
 
 ## Walkthrough of Key Visuals 🖼️
 
-•  **KPI Cards (Top Row)**
+•  KPI Cards (Top Row)
 
     •	Total Sales: $1.2M
    
@@ -88,7 +88,7 @@ To deliver an interactive analytical tool that:
 
 •	Outlet Type Performance Table – Displays all KPIs (Total Sales, Average Sales, Number of Items, Average Rating, Item Visibility) per outlet type.
 
-## ** Business Impact & Insights 📈
+## Business Impact & Insights 📈
 
 •	Tier 3 locations generate the highest sales ($472.13K), indicating strong rural/semi-urban demand.
 
@@ -100,7 +100,7 @@ To deliver an interactive analytical tool that:
 
 •	This analysis helps Blinkit optimize outlet stocking strategies, improve targeted marketing, and enhance product category focus.
 
-## ** Screenshots / Demos 🖼️
+## Screenshots / Demos 🖼️
 
 📸 Attached Dashboard Preview:
 ![Dashboard Preview](https://github.com/chinmayshirsat/Blinkit-Dashboard/blob/main/Blinkit%20Dashboard.png)

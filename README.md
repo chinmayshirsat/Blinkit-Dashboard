@@ -66,28 +66,38 @@ To deliver an interactive analytical tool that:
 
 •	**KPI Cards (Top Row)**
 
-   •	Total Sales: $1.2M
+    •	Total Sales: $1.2M
    
-   •	Average Sales: $141
+    •	Average Sales: $141
    
-   •	Number of Items Sold: 8,523
+    •	Number of Items Sold: 8,523
    
-   •	Average Rating: 3.9
+    •	Average Rating: 3.9
    
 •	Sales by Fat Content (Donut Chart) – Compares revenue from Low Fat vs. Regular items.
+
 •	Top Item Types (Bar Chart) – Highlights best-selling categories like Fruits & Vegetables, Snack Foods, and Household products.
+
 •	Fat Content by Outlet (Clustered Bar Chart) – Shows sales contribution per outlet tier for different fat content items.
+
 •	Outlet Establishment Trend (Line & Area Chart) – Tracks sales growth by establishment year, showing peaks in certain years.
+
 •	Sales by Outlet Size (Donut Chart) – Shows revenue split between small, medium, and large outlets, with medium-sized outlets leading.
+
 •	Sales by Outlet Location (Horizontal Bar Chart) – Compares Tier 1, Tier 2, and Tier 3 cities; Tier 3 leads in revenue.
+
 •	Outlet Type Performance Table – Displays all KPIs (Total Sales, Average Sales, Number of Items, Average Rating, Item Visibility) per outlet type.
 
 ## ****Business Impact & Insights 📈
 
 •	Tier 3 locations generate the highest sales ($472.13K), indicating strong rural/semi-urban demand.
+
 •	Regular fat content items outperform low-fat products, driving $776.3K in sales.
+
 •	Medium-sized outlets are the top revenue contributors.
+
 •	Supermarket Type 1 leads outlet performance, generating the highest total sales and item turnover.
+
 •	This analysis helps Blinkit optimize outlet stocking strategies, improve targeted marketing, and enhance product category focus.
 
 ## ****Screenshots / Demos 🖼️

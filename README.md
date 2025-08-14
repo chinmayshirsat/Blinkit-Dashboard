@@ -35,7 +35,7 @@ The dashboard was built using the following tools and technologies:
 
 •	**Customer Ratings** – Average customer feedback scores per item.
 
-## **Features / Highlights 🚀
+## Features / Highlights 🚀
 **Business Problem** ❓
 
 Blinkit needed a comprehensive view of its sales performance across outlets, products, and regions.

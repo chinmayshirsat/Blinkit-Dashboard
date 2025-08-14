@@ -29,19 +29,25 @@ The dashboard was built using the following tools and technologies:
 
 **Structure**:
 
-**Sales Data** – Transaction-level details including item type, fat content, sales amount, and ratings.
-**Outlet Information** – Location type (Tier 1–3), size, establishment year, and type (Grocery Store, Supermarket Type 1–3).
-**Customer Ratings** – Average customer feedback scores per item.
+•	**Sales Data** – Transaction-level details including item type, fat content, sales amount, and ratings.
+
+•	**Outlet Information** – Location type (Tier 1–3), size, establishment year, and type (Grocery Store, Supermarket Type 1–3).
+
+•	**Customer Ratings** – Average customer feedback scores per item.
 
 ## ****Features / Highlights 🚀
 **Business Problem** ❓
 
 Blinkit needed a comprehensive view of its sales performance across outlets, products, and regions.
+
 Key questions included:
 
 •	Which product categories and fat content types drive the most sales?
+
 •	How do outlet size, type, and location influence sales performance?
+
 •	What is the relationship between customer ratings and sales?
+
 •	How has outlet establishment year impacted revenue trends over time?
 
 ## **Goal of the Dashboard** 🎯
@@ -49,17 +55,25 @@ Key questions included:
 To deliver an interactive analytical tool that:
 
 •	Tracks key sales KPIs in real-time.
+
 •	Compares product performance by category and fat content.
+
 •	Evaluates outlet effectiveness based on size, location, and type.
+
 •	Supports inventory planning and marketing decisions with data-backed insights.
 
 ## **Walkthrough of Key Visuals** 🖼️
 
 •	**KPI Cards (Top Row)**
+
    •	Total Sales: $1.2M
+   
    •	Average Sales: $141
+   
    •	Number of Items Sold: 8,523
+   
    •	Average Rating: 3.9
+   
 •	Sales by Fat Content (Donut Chart) – Compares revenue from Low Fat vs. Regular items.
 •	Top Item Types (Bar Chart) – Highlights best-selling categories like Fruits & Vegetables, Snack Foods, and Household products.
 •	Fat Content by Outlet (Clustered Bar Chart) – Shows sales contribution per outlet tier for different fat content items.

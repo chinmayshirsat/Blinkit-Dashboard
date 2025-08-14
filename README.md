@@ -1,6 +1,6 @@
 # Blinkit-Dashboard
 
-###📌 **Project Title** 
+### **Project Title** 
 
 📦 Blinkit Sales Performance & Outlet Analysis Dashboard
 An interactive Power BI dashboard providing in-depth insights into Blinkit’s sales trends, customer satisfaction, and outlet performance across locations, sizes, and product categories.
